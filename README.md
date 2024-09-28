@@ -4,15 +4,15 @@
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS" alt="Typing SVG" /></a>   
             
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded By Rayan and Giffareno</u>
+<up A simple WhatsApp User Bot Coded By caseyrhodes and palvinweb</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/6368ad7db15fce6a4dfdb.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RAYAN+AND+GIFFAREO;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+CASEYRHODES-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CASEYRHODES+AND+PALVINWEB;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CASEYRHODES_TECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
@@ -21,14 +21,14 @@
 <p align="center">
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V2?color=white&style=flat-square"></a>
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM_MD-V2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Kgtech-cmr/KERM_MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM_MD-V2?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES_MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM_MD-V2?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
         <a href = ""><img alt="KermHack Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Kgtech-cmr/KERM_MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/caseyweb/CASEYRHODES-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
@@ -97,7 +97,7 @@ jobs:
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Kgtech-cmr/KERM_MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://heroku.com/deploy?template=https://github/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 #### DEPLOY TO KOYEB 
 
@@ -141,7 +141,7 @@ jobs:
 * [`PALVINWEB`](https://github.com/caseyweb)
 * [`CASEYRHODES`](https://github.com/caseyweb)
 * ## Contact Dev of KERM🤪
-* [`RAYAN`](https://wa.me/254112192119?text=Hi+Bro+Rayan+Big+Fan😍)
-* [`GIFFARENO`](https://wa.me/254112192119?text=Hi+Bro+Giffareno+Big+Fan😍)
+* [`CASEYRHODES`](https://wa.me/254112192119?text=Hi+Bro+Rayan+Big+Fan😍)
+* [`PALVINWEB`](https://wa.me/254785968570?text=Hi+Bro+Giffareno+Big+Fan😍)
  </details>
  
