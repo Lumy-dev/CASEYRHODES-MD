@@ -1,4 +1,4 @@
-#        CASYRHODES-MD ᐯ2
+#        CASEYRHODES-MD ᐯ2
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS" alt="Typing SVG" /></a>   
@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/CASEYRHODESTECH-black?style=for-the-badge&logo=Github"></a> <a href=""><img title="Author" src="https://img.shields.io/badge/https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83EEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 <p align="center">
 <a href="https://github.com/Kgtech-cmr/KERM_MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V2?color=white&style=flat-square"></a>
